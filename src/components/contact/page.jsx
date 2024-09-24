@@ -1,5 +1,5 @@
 import React from 'react';  
-import { FaEnvelope, FaPhone, FaGithub, FaTwitter, FaLinkedin } from 'react-icons/fa';  
+import { FaEnvelope, FaGithub,  FaLinkedin } from 'react-icons/fa';  
 
 const ContactMe = () => {  
   return (  
