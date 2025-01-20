@@ -28,8 +28,8 @@ const Portfolio = () => {
 
         {/* Project Item 3 */}  
         <div className='bg-white shadow-md rounded-lg overflow-hidden'>  
-
-          <img src="/pokemonProject.png" alt="Project 3" className='w-full h-48 object-cover border-2 border-white' />
+        <a href="https://pokemontypescript.netlify.app/" target="_blank" rel="noopener noreferrer"> 
+          <img src="/pokemonProject.png" alt="Project 3" className='w-full h-48 object-cover border-2 border-white' /> </a> 
           <div className='p-4'>  
             <h3 className='font-semibold'>Pokémon website</h3>  
             <p className='text-gray-600'>Utilizing Next.js and Tailwind for the frontend, and using Pokémon API for data intergration</p>  
