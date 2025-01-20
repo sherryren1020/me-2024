@@ -20,7 +20,7 @@ const Experience = () => {
       {/* Experience Item 1 */}  
       <div className='flex flex-col bg-white shadow-md rounded-lg p-4 mb-4'>  
         <h3 className='text-xl font-semibold'>REDSpace</h3>  
-        <span className='text-gray-500 mb-2'>Front-end Developer (CO-OP) | May 2021 – Aug 2021</span>  
+        <span className='text-gray-500 mb-2'>Software Developer | May 2021 – Aug 2021</span>  
         <ul className='list-disc list-inside'>  
           <li>Designed and implemented a scalable single-page web application using JavaScript, React, and AWS Lambda, enhancing automation in hiring processes.</li>  
           <li>Contributed to the development of a mobile app leveraging TypeScript, React Native, and AWS services, focusing on performance and scalability.</li>  
